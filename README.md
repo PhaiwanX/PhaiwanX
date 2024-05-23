@@ -12,9 +12,7 @@
  ```
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ps,pr,blender" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,typescript,mysql,mongodb" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,vue,nuxtjs,typescript,react,next,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,nuxtjs,react,next" />
 </p>
